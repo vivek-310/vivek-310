@@ -9,7 +9,7 @@
 
 - 🌱 Currently learning NEXTJs.
 - 🤝 Looking to contribute for Open-source Organizations
-- 👨‍💻 Intrested in FullStack,ReactNative,Devops,DSA.
+- 👨‍💻 Intrested in FullStack,Flutter,DSA.
 - 💬 Ask me about DEV.
 - 📫 How to reach me vivekvardhan0310@gmail.com
 
@@ -36,15 +36,53 @@
 ---
 ### My Github Stats:
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek-310&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Vivek's GitHub status" />
-</p>
-<p>
+
+
+
+---
+<h3 align="center">
+ <a href="https://github.com/vivek-310">
+<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
+    </a> <a href="https://github.com/vivek-310">
+  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+   </a> 
+ 【STᗩTS】 
+</h3>
+
+<a href="https://github.com/vivek-310">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
+</a>
+ 
+
+
+
+<p align="center">
+ <br/>
+
+
+
+<p align="center"> 
+<!-- <a href="https://user-badge.committers.top/morocco/vivek-310">  -->
+<!--  <img align="center" src="https://aktive.kerolloz.dev/morocco/walidbosso?label=%F0%9F%92%BB%20Top%20Commiters%20In%20Morocco&labelColor=01102d&rnkPrefix=Rank%20&color=6eb9f2&style=for-the-badge" width="" />     -->
+</a></p >
+
+ <p align="center">
+<a href="https://github.com/vivek-310">
+
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek-310&show_icons=true&line_height=30&rank_icon=github&theme=algolia" alt="Walid's github stats"/>
+
+</a>
+
+<br/>
+
+</p >
+
+
+<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-310&theme=algolia" alt="vivek" />
 </p>
 
----
-
+----
 ### Top Usage Languages:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-310&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
