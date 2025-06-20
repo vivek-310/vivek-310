@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-![](https://komarev.com/ghpvc/?username=Vivek-310&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=vivek-310&color=brightgreen)
 
 
 - 🌱 Currently learning NEXTJs.
