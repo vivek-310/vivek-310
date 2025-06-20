@@ -11,7 +11,7 @@
 - 🤝 Looking to contribute for Open-source Organizations
 - 👨‍💻 Intrested in FullStack,ReactNative,Devops,DSA.
 - 💬 Ask me about DEV.
-- 📫 How to reach me sriramadari.dev@gmail.com
+- 📫 How to reach me vivekvardhan0310@gmail.com
 
 ### Languages and Tools:
 
