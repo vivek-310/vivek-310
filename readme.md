@@ -4,8 +4,6 @@
   </a>
 </h1>
 
-![](https://komarev.com/ghpvc/?username=ashrith24&color=brightgreen)
-
 
 - 🌱 Currently learning NEXTJs.
 - 🤝 Looking to contribute for Open-source Organizations
